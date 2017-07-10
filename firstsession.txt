@@ -1,0 +1,9 @@
+My first session notes from java class:
+
+A computer is hardware plus software. Hardware are the things on the computer ou can feel and touch. For example the CPU, Motherboard, Hard disk, etc. The CPU is like the brain of the computer. It stands for the Central Procesing Unit. The RAM is like a scratchpad. The RAM can emember stuff temporarily and then throws it away. It stands for the Random Access Memory. The Hard disk is like a note book where it saves stuff permanently and you can access it at any time. Software is the different programs in the computer. For example, Microsoft Word, YouTube, Google Chrome, etc. One type of software is called the Operating System (OS). The OS starts the computer. Programs are a series of steps, actions, or instructions that tell something what to do. In a program the instruction is an action and the data is the extra details.
+
+The decimal system is number system we use in our daily lives. It has the place values like ones, tens, hndreds, etc. This system is based on ten numbers 0 - 9.
+
+The binary system is used in computers. In this system there are only 2 numbers to use; 1 and 0. For example 101 can be written as (1*2^2) + (0*2^2) + (1*2^0). This simplifies to 5, so the decimal value of 101 is 5. To convert a binary number to decimal value you have to expand each digit with its place value and base of 2, the place values are 1,2,4,8,16,32, etc., then simplify. To convert decimal to binary you have to split the number in multiples of 2. Then in the place values of the binary system that are there, you put a 1 and in the place values that are missing, you put a 0.
+
+In computers American Standard Code for Information Interchange (ASCII) has a number for every capital and lowercase letter and symbols, so the computer can convert everything to numbers and the binary system.
