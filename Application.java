@@ -4,20 +4,22 @@ public class Application {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Creating my own data types");
-		Person p1 = new Person();
-		p1.age = 13;
-		p1.name = "Adithi";
-		p1.grade = 9;
+		Animal a1 = new Animal();
+		a1.age = 3;
+		a1.legs = 4;
+		a1.color = "Black";
+		a1.species = "Dog";
 
-		Person p2 = new Person();
-		p2.age = 14;
-		p2.name = "Bob";
-		p2.grade = 10;
+		Animal a2 = new Animal();
+		a2.age = 5;
+		a2.legs = 4;
+		a2.color = "Brown";
+		a2.species = "Cat";
 
-		System.out.println(p1.name);
-		System.out.println(p2.name);
-		System.out.println(p1.age);
-		System.out.println(p2.age);
+		System.out.println(a1.age);
+		System.out.println(a2.age);
+		System.out.println(a1.color);
+		System.out.println(a2.color);
 	}
 
 }
