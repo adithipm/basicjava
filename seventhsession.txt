@@ -1,0 +1,7 @@
+Here are my seventh session notes:
+
+Syntax makes it easy to correct complication errors and concentrate on logical programming. The syntaxes we have learned so far are: if (followed by () and then {}), condition (true/false or yes/no), if else if, for (repition ( ; ; ){}), custom datatype (class yourdatatype), and using custom datatype (datatype variablename = new variable).
+
+The techical term for creation or own datatype in java is class and for variable it is object or instance. Creating a class is like a template, cookie cutter, recipie, or blueprint.
+
+An actions are verbs and classes are nouns. You use void and int to make the program do the action. Actions are also called methods and functions. They start with lowercase.
