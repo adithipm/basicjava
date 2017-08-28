@@ -1,0 +1,10 @@
+Here are my eighth session notes:
+
+Class: technical term for datatype.
+Object: technical term for variable.
+Fields: technical term for class properties.
+Methods: technical term for actions (verbs).
+
+Methods in a class have access to the fields and can use them by calling it in the program. The fields are called object variables.
+
+Boolean is a data type that is used when the data value can only take yes or no.
