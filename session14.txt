@@ -1,0 +1,5 @@
+Here are my 14th session notes:
+
+Method Overload: when you have the same method name, but different parameters. Alows a class to have more than one method with the same name, if their argument lists are different. For the method overload to work, the methods need to have different parameters or it will come up as an error.
+
+Another data type is char for character. It is used for storing a single character.
