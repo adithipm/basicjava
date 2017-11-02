@@ -1,0 +1,10 @@
+Here are my fifteenth session notes:
+
+Constructor overloading:
+Constructor is a method with the same name as the class. So method overloading will work for constructors too.
+
+A constructor is called a constructor because it is only used while creating an object.
+
+Defining a method is different than calling a method. When you are defining a method, you include the name, inputs, outputs, and instructions. When the program is using the method and following the instructions, it is calling the method.
+
+To not allow methods to be called in the Application class, use the work private before the method.
