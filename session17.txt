@@ -1,0 +1,3 @@
+Here are my session 17 notes:
+
+Variables: Variables have to be one word, define a variable before using it, can't define same variable in the same method multiple times, variables are alive when defined and dead after curly bracket, if the same variable is defined in different methods it will be different, and the standard way of defininf a variable is using a lower case letter.
