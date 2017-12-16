@@ -1,0 +1,7 @@
+Here are my session 21 notes:
+
+Static methods are shared with all objects, but not part of the objects. Also static methods cannot access class variables and to use static methods, you have to access it using the class not objects. Staic can also be used in fields.
+
+JDK has many packages and each package has a certain number of class whch are unique in that package.
+
+When you use an array it means you have multiple values in a single variable.
