@@ -1,0 +1,3 @@
+Here are my sessioon 26 notes:
+
+If an if else statement has a lot of else if conditions, using a switch statement can make it easier. You put Switchinplace of if and the conditions are called cases. You need a break statement after each case for that case to stop.
