@@ -1,0 +1,11 @@
+My second session notes:
+
+Bit is one binary digit and the smallest data in computer system. The number of values in a bit is equal to 2 to the power of the number of bits. 8 bits i 1 byte, 1024 (10^3) bytes is 1 kilo byte, 1024*1024 (10^6) bytes is 1 mega byte, and 1024*1024*1024 (10^9) bytes is 1 giga byte.
+
+To find out what OS your computer has press the windows button and type winver. To find out how much memory your computer has right click on the task bar and press Task Manager. Then go to the performance tab and click on Memory. To find the hard disk go to Windows Explorer and right click on your C drive. Press Properties and you will see the hard disk.
+
+A file is a group of bytes. Windows have many different files like .txt. A folder is a collection of files and can also contain folders.
+
+In command promt md is to creat a directory and cd is to change a directory.
+
+Ecipse is a software. It is used to develope our own programs. However Eclipse is an IDE (Interactive Development Environment).

@@ -1,0 +1,41 @@
+package basicJava;
+
+import java.awt.Color;
+import java.awt.Font;
+
+import javax.swing.JPanel;
+import javax.swing.JTextField;
+
+public class ResultPanel extends JPanel {
+
+	JTextField t1;
+	JTextField t2;
+
+	ResultPanel() {
+		super.setBackground(Color.CYAN);
+		
+		t1 = new JTextField();
+		t1.setText("HI! THIS IS MY CALCULATOR");
+		t1.setBackground(Color.CYAN);
+		Font font = new Font("Sans", Font.BOLD, 20);
+		t1.setFont(font);
+		super.add(t1);
+		
+		t2 = new JTextField();
+		t2.setText("HI! THIS IS MY CALCULATOR");
+		t2.setBackground(Color.CYAN);
+		font = new Font("Sans", Font.BOLD, 20);
+		t2.setFont(font);
+		super.add(t2);
+	}
+
+	void setNumber(String number) {
+		t1.setText(number);
+		t2.setText(number);
+	}
+
+	void setOperation(String operation) {
+		t2.setText(operation);
+	}
+	
+}

@@ -1,0 +1,15 @@
+1. RAM is the random access memory and the CPU is the central processing unit.
+2. Bit
+3. ASCII is another java principle.
+4. It helps you "talk" with the computer.
+5. Grammar
+6. ; and {}
+7. new, private
+8. Data type defines what type the variable is going to be.
+9. String, int
+10. A class is like a template for the program where it defines variables and so on.
+11. An object is when that part of the program uses the variable.
+12. public class
+13. A method is a program that has an action in it.
+14. non-class variable method
+15. Inheritance is when one class uses methods or variables from another class; it "inherits" everything in that class. Encapsulation is when the method is private and it is hiding the details.

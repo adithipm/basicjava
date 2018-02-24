@@ -1,0 +1,9 @@
+package basicJava;
+
+public class Number {
+
+	String defineNumber(int number){
+		return ;
+	}
+	
+}
