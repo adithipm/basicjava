@@ -1,0 +1,5 @@
+Here are my session 18/19 notes:
+
+Satic Methods: It takes the input and completely relies on the input parameters to give the output. There are 2 ways of calling a static method. One way is to create an object and call the method. Another way is to call on the class itself. Use static methods when the method doesn't use class variables.
+
+Reusing: There are 2 ways of reusing in java. One kind is you want something to be done but others have already done the same exact thing (JDK). Another kind is you saw something already made and you want to use the same thing, but change it a little (inheritance). If you extend a class to another class all the methods in the first class becaome part of the second class too.

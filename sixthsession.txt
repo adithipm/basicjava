@@ -1,0 +1,5 @@
+Here are my sixth session notes:
+
+To declare a variable you have to type it in the format: datatype variablename = valueofthevariable. The data types provided by Java are int and String. The data type int is only used for numbers and String is used for words.
+
+To create your own data types you can use the basic ones. The syntax to create your own data type is: class yourowndatatypename {}. In this you can define your data type. For example: int weight; or String name;. To use your data type you put your data type and the variable name. For example Person person1;. To assign the variable value it is slghtly different. You have to use Person person1 = new Person (). Then you can assign different values to the parts of your data type. To do that type the variable.variablename = value. For example person1.age = 12. To print the variable value you use: System.out.println(person1.name + "age is" + person1.age);. The data type (class) should always be a singular noun.

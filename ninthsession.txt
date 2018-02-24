@@ -1,0 +1,15 @@
+Here are my ninth session notes:
+
+Class: A template, blueprint, cookie cutter, recipe, and your custom data type. It contains fields and methods and methods can access fields. The class always has to be a singular noun.
+
+Object: Varible and instance. You are creating a variable for your class.
+
+Fields: These are the properties in the class. Once you define the variable it will become a field.
+
+Methods: These are actions or verbs.
+
+The connection between fields and methods are that methods can access fields from the same class. Fields are called instance variables.
+
+Boolean: A datatype that stores yes or no.
+
+Encapsulation: Putting related fields and methods in the same class. The second part is hiding the details. You can hide it by putting private in front of the method.

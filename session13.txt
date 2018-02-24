@@ -1,0 +1,13 @@
+Here are my 13 session notes:
+
+Methods are actions. In a method, first you have to put the name, then put the inputs and what the method gives back.
+
+Method syntax:
+
+outputDataType methodName(input){
+    return returnValue;
+}
+
+If you just write a print statement in the class, it won't print because you haven't used it. For it to print, it needs to be called in the application class.
+
+A constructor is a special method that has the same name as the class. It also does not have a return data type.
